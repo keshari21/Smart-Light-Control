@@ -41,3 +41,6 @@ Upload the code to the Arduino board.
 Open the Serial Monitor (Baud Rate: 9600).
 Type "ON" and press Enter to turn the LED ON.
 Type "OFF" and press Enter to turn the LED OFF.
+
+**Output**
+![Image](https://github.com/user-attachments/assets/22322ade-d6ae-43b0-91ea-d2e55b04096e)
